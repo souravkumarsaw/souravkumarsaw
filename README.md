@@ -1,7 +1,7 @@
 # Hi 👋 I'm Sourav Kumar Saw
 
 🎓 CSE Undergraduate at Chandigarh University  
-💻 Backend Developer | C++ | Java | MERN Stack  
+💻 Backend Developer | C++ Developer | Software Developer | Java | MERN Stack  
 🚀 Passionate about building scalable applications  
 
 ---
